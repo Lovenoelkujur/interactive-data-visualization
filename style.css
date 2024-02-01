@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div{
+    background-color: antiquewhite;
+    border: 2px dashed rgb(64, 12, 135);
+    max-width: 600px;
+    margin: 10rem auto;
+    
+}
